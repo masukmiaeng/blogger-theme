@@ -1,5 +1,13 @@
 # Masuk Mia
 
+
+#git push:
+git init
+git add README.md
+git commit -m "first commit"
+git brance -M main
+git remote add origin https://github.com/
+git push -u origin main
 Hi, I'm **Masuk Mia**, a passionate **Software Engineer** with over 4 years of experience in software development, web development, data analysis, and digital marketing. I specialize in building software solutions that drive business growth and efficiency.
 
 ## Udemy Courses
